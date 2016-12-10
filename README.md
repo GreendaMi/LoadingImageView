@@ -12,3 +12,18 @@
   ```
   
 &#160; &#160; &#160; &#160;注意添加：asBitmap()，或者手动设置bitmap。只能使用ImageView默认的ScaleType。
+
+
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+
+dependencies {
+	        compile 'com.github.GreendaMi:LoadingImageView:1.0'
+	}
+```
