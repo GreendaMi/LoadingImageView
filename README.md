@@ -24,6 +24,6 @@ allprojects {
 
 
 dependencies {
-	        compile 'com.github.GreendaMi:LoadingImageView:1.0'
+	        compile 'com.github.GreendaMi:LoadingImageView:1.1'
 	}
 ```
